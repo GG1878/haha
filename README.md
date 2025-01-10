@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
-        <a>MINH XO</a>
+        <a><b>MINH XO</b></a>
     </head>
         <br>
     <body>
